@@ -115,8 +115,7 @@
 |  107   | droll														      |[live example](https://learning-zone.github.io/website-templates/droll/)|														      
 |  108   | endure-html5-responsive-coming-soon-template				      |[live example](https://learning-zone.github.io/website-templates/endure-html5-responsive-coming-soon-template/)|				      
 |  109   | extent														      |[live example](https://learning-zone.github.io/website-templates/extent/)|														      
-|  110   | fiber-hosting-bootstrap-website-template					      |[live example](https://learning-zone.github.io/website-templates/fiber-hosting-bootstrap-website-template/)|					      
-|  111   | full-slider													      |[live example](https://learning-zone.github.io/website-templates/full-slider/)|													      
+|  110   | fiber-hosting-bootstrap-website-template					      |[live example](https://learning-zone.github.io/website-templates/fiber-hosting-bootstrap-website-template/)|					      						      
 |  112   | funky-cool-blue												      |[live example](https://learning-zone.github.io/website-templates/funky-cool-blue/)|												      
 |  113   | gila														      |[live example](https://learning-zone.github.io/website-templates/gila/)|														      
 |  114   | glips-responsive-free-coming-soon-bootstrap-template		      |[live example](https://learning-zone.github.io/website-templates/glips-responsive-free-coming-soon-bootstrap-template/)|		      
