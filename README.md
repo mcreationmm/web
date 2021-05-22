@@ -109,8 +109,7 @@
 |  102   | css3-seascape-two											      |[live example](https://learning-zone.github.io/website-templates/css3-seascape-two/)|											      
 |  103   | css3-seascape												      |[live example](https://learning-zone.github.io/website-templates/css3-seascape/)|												      
 |  104   | darktouch-corporate-portfolio-bootstrap-responsive-web-template	  |[live example](https://learning-zone.github.io/website-templates/darktouch-corporate-portfolio-bootstrap-responsive-web-template/)|	  
-|  105   | dreamy														      |[live example](https://learning-zone.github.io/website-templates/dreamy/)|														      
-|  106   | drifting													      |[live example](https://learning-zone.github.io/website-templates/drifting/)|													      
+|  105   | dreamy														      |[live example](https://learning-zone.github.io/website-templates/dreamy/)|														      									
 |  107   | droll														      |[live example](https://learning-zone.github.io/website-templates/droll/)|														      
 |  108   | endure-html5-responsive-coming-soon-template				      |[live example](https://learning-zone.github.io/website-templates/endure-html5-responsive-coming-soon-template/)|				      
 |  109   | extent														      |[live example](https://learning-zone.github.io/website-templates/extent/)|														      
