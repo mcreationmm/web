@@ -8,40 +8,40 @@
 
 |Sl.No| Template Name  | Live Example |
 |-----|----------------|--------------|
-|  01  | 3-col-portfolio	                                                  |[live example](https://learning-zone.github.io/website-templates/3-col-portfolio/)|	                                                  
-|  02  | above-educational-bootstrap-responsive-template	                  |[live example](https://learning-zone.github.io/website-templates/above-educational-bootstrap-responsive-template/)|	                  
-|  03  | add-life-health-fitness-free-bootstrap-html5-template	          |[live example](https://learning-zone.github.io/website-templates/add-life-health-fitness-free-bootstrap-html5-template/)|	          
-|  04  | aerosky-real-estate-html-responsive-website-template		      |[live example](https://learning-zone.github.io/website-templates/aerosky-real-estate-html-responsive-website-template/)|	      
-|  05  | agile-agency-free-bootstrap-web-template					      |[live example](https://learning-zone.github.io/website-templates/agile-agency-free-bootstrap-web-template/)|					      
-|  06  | amaze-photography-bootstrap-html5-template					      |[live example](https://learning-zone.github.io/website-templates/amaze-photography-bootstrap-html5-template/)|					      
-|  07  | aroma-beauty-and-spa-responsive-bootstrap-template			      |[live example](https://learning-zone.github.io/website-templates/aroma-beauty-and-spa-responsive-bootstrap-template/)|			      
-|  08  | avenger-multi-purpose-responsive-html5-bootstrap-template	      |[live example](https://learning-zone.github.io/website-templates/avenger-multi-purpose-responsive-html5-bootstrap-template/)|	      
-|  09  | b-school-free-education-html5-website-template				      |[live example](https://learning-zone.github.io/website-templates/b-school-free-education-html5-website-template/)|				      
-|  10  | basic-free-html5-template-for-multi-purpose|[live example](https://learning-zone.github.io/website-templates/basic-free-html5-template-for-multi-purpose/)|					      
-|  11   | beauty-salon-bootstrap-html5-template						      |[live example](https://learning-zone.github.io/website-templates/beauty-salon-bootstrap-html5-template/)|						      
-|  12   | bestro-restaurant-bootstrap-html5-template					      |[live example](https://learning-zone.github.io/website-templates/bestro-restaurant-bootstrap-html5-template/)|					      
-|  13   | businessline-corporate-portfolio-bootstrap-responsive-web-template|[live example](https://learning-zone.github.io/website-templates/businessline-corporate-portfolio-bootstrap-responsive-web-template/)|		
-|  14   | cloud-hosting-free-bootstrap-responsive-website-template	      |[live example](https://learning-zone.github.io/website-templates/cloud-hosting-free-bootstrap-responsive-website-template/)|	      
-|  15   | coffee-shop-free-html5-template								      |[live example](https://learning-zone.github.io/website-templates/coffee-shop-free-html5-template/)|								      
-|  16   | creative-bee-corporate-free-html5-web-template				      |[live example](https://learning-zone.github.io/website-templates/creative-bee-corporate-free-html5-web-template/)|				      
-|  17   | creative-free-responsive-html5-business-template			      |[live example](https://learning-zone.github.io/website-templates/creative-free-responsive-html5-business-template/)|			      
-|  18   | delight-multi-purpose-free-html5-website-template			      |[live example](https://learning-zone.github.io/website-templates/delight-multi-purpose-free-html5-website-template/)|			      
-|  19   | delite-music-html5-bootstrap-responsive-web-template		      |[live example](https://learning-zone.github.io/website-templates/delite-music-html5-bootstrap-responsive-web-template/)|		      
-|  20   | eat-restaurant-bootstrap-html5-template						      |[live example](https://learning-zone.github.io/website-templates/eat-restaurant-bootstrap-html5-template/)|						      
-|  21   | elegant-free-multi-purpose-bootstrap-responsive-template	      |[live example](https://learning-zone.github.io/website-templates/elegant-free-multi-purpose-bootstrap-responsive-template/)|	      
-|  22   | enlive-corporate-free-html5-bootstrap-web-template			      |[live example](https://learning-zone.github.io/website-templates/enlive-corporate-free-html5-bootstrap-web-template/)|			      
-|  23   | everest-corporate-business-bootstrap-template				      |[live example](https://learning-zone.github.io/website-templates/everest-corporate-business-bootstrap-template/)|				      
-|  24   | fit-healthy-fitness-and-gym-html5-bootstrap-theme			      |[live example](https://learning-zone.github.io/website-templates/fit-healthy-fitness-and-gym-html5-bootstrap-theme/)|			      
-|  25   | fitness-zone-html5-bootstrap-responsive-web-template		      |[live example](https://learning-zone.github.io/website-templates/fitness-zone-html5-bootstrap-responsive-web-template/)|		      
-|  26   | foodz-mobile-app-bootstrap-landing-page						      |[live example](https://learning-zone.github.io/website-templates/foodz-mobile-app-bootstrap-landing-page/)|						      
-|  27   | frames-corporate-bootstrap-free-html5-template				      |[live example](https://learning-zone.github.io/website-templates/frames-corporate-bootstrap-free-html5-template/)|				      
-|  28   | free-bootstrap-admin-template-dream							      |[live example](https://learning-zone.github.io/website-templates/free-bootstrap-admin-template-dream/)|							      
-|  29   | free-bootstrap-template-real-estate-my-home					      |[live example](https://learning-zone.github.io/website-templates/free-bootstrap-template-real-estate-my-home/)|					      
-|  30   | free-bootstrap-template-restaurant-website-treehut			      |[live example](https://learning-zone.github.io/website-templates/free-bootstrap-template-restaurant-website-treehut/)|			      
-|  31   | free-bootstrap-template-rockline-business					      |[live example](https://learning-zone.github.io/website-templates/free-bootstrap-template-rockline-business/)|					      
-|  32   | free-bootstrap-template-for-multi-purpose-ladder			      |[live example](https://learning-zone.github.io/website-templates/free-bootstrap-template-for-multi-purpose-ladder/)|			      
-|  33   | free-portfolio-html5-responsive-website-sam					      |[live example](https://learning-zone.github.io/website-templates/free-portfolio-html5-responsive-website-sam/)|					      
-|  34   | getdoctor-free-bootstrap-responsive-website-template		      |[live example](https://learning-zone.github.io/website-templates/getdoctor-free-bootstrap-responsive-website-template/)|		      
+|  01  | 3-col-portfolio	                                                  |[live example](https://mcreationmm.github.io/web//3-col-portfolio/)|	                                                  
+|  02  | above-educational-bootstrap-responsive-template	                  |[live example](https://mcreationmm.github.io/web/above-educational-bootstrap-responsive-template/)|	                  
+|  03  | add-life-health-fitness-free-bootstrap-html5-template	          |[live example](https://mcreationmm.github.io/web/add-life-health-fitness-free-bootstrap-html5-template/)|	          
+|  04  | aerosky-real-estate-html-responsive-website-template		      |[live example](https://mcreationmm.github.io/web/aerosky-real-estate-html-responsive-website-template/)|	      
+|  05  | agile-agency-free-bootstrap-web-template					      |[live example](https://mcreationmm.github.io/web/agile-agency-free-bootstrap-web-template/)|					      
+|  06  | amaze-photography-bootstrap-html5-template					      |[live example](https://mcreationmm.github.io/web/amaze-photography-bootstrap-html5-template/)|					      
+|  07  | aroma-beauty-and-spa-responsive-bootstrap-template			      |[live example](https://mcreationmm.github.io/web/aroma-beauty-and-spa-responsive-bootstrap-template/)|			      
+|  08  | avenger-multi-purpose-responsive-html5-bootstrap-template	      |[live example](https://mcreationmm.github.io/web/avenger-multi-purpose-responsive-html5-bootstrap-template/)|	      
+|  09  | b-school-free-education-html5-website-template				      |[live example](https://mcreationmm.github.io/web/b-school-free-education-html5-website-template/)|				      
+|  10  | basic-free-html5-template-for-multi-purpose|[live example](https://mcreationmm.github.io/web/basic-free-html5-template-for-multi-purpose/)|					      
+|  11   | beauty-salon-bootstrap-html5-template						      |[live example](https://mcreationmm.github.io/web/beauty-salon-bootstrap-html5-template/)|						      
+|  12   | bestro-restaurant-bootstrap-html5-template					      |[live example](https://mcreationmm.github.io/web/bestro-restaurant-bootstrap-html5-template/)|					      
+|  13   | businessline-corporate-portfolio-bootstrap-responsive-web-template|[live example](https://mcreationmm.github.io/web/businessline-corporate-portfolio-bootstrap-responsive-web-template/)|		
+|  14   | cloud-hosting-free-bootstrap-responsive-website-template	      |[live example](https://mcreationmm.github.io/web/cloud-hosting-free-bootstrap-responsive-website-template/)|	      
+|  15   | coffee-shop-free-html5-template								      |[live example](https://mcreationmm.github.io/web/coffee-shop-free-html5-template/)|								      
+|  16   | creative-bee-corporate-free-html5-web-template				      |[live example](https://mcreationmm.github.io/web/creative-bee-corporate-free-html5-web-template/)|				      
+|  17   | creative-free-responsive-html5-business-template			      |[live example](https://mcreationmm.github.io/web/creative-free-responsive-html5-business-template/)|			      
+|  18   | delight-multi-purpose-free-html5-website-template			      |[live example](https://mcreationmm.github.io/web/delight-multi-purpose-free-html5-website-template/)|			      
+|  19   | delite-music-html5-bootstrap-responsive-web-template		      |[live example](https://mcreationmm.github.io/web/delite-music-html5-bootstrap-responsive-web-template/)|		      
+|  20   | eat-restaurant-bootstrap-html5-template						      |[live example](https://mcreationmm.github.io/web/eat-restaurant-bootstrap-html5-template/)|						      
+|  21   | elegant-free-multi-purpose-bootstrap-responsive-template	      |[live example](https://mcreationmm.github.io/web/elegant-free-multi-purpose-bootstrap-responsive-template/)|	      
+|  22   | enlive-corporate-free-html5-bootstrap-web-template			      |[live example](https://mcreationmm.github.io/web/enlive-corporate-free-html5-bootstrap-web-template/)|			      
+|  23   | everest-corporate-business-bootstrap-template				      |[live example](https://mcreationmm.github.io/web/everest-corporate-business-bootstrap-template/)|				      
+|  24   | fit-healthy-fitness-and-gym-html5-bootstrap-theme			      |[live example](https://mcreationmm.github.io/web/fit-healthy-fitness-and-gym-html5-bootstrap-theme/)|			      
+|  25   | fitness-zone-html5-bootstrap-responsive-web-template		      |[live example](https://mcreationmm.github.io/web/fitness-zone-html5-bootstrap-responsive-web-template/)|		      
+|  26   | foodz-mobile-app-bootstrap-landing-page						      |[live example](https://mcreationmm.github.io/web/foodz-mobile-app-bootstrap-landing-page/)|						      
+|  27   | frames-corporate-bootstrap-free-html5-template				      |[live example](https://mcreationmm.github.io/web/frames-corporate-bootstrap-free-html5-template/)|				      
+|  28   | free-bootstrap-admin-template-dream							      |[live example](https://mcreationmm.github.io/web/free-bootstrap-admin-template-dream/)|							      
+|  29   | free-bootstrap-template-real-estate-my-home					      |[live example](https://mcreationmm.github.io/web/free-bootstrap-template-real-estate-my-home/)|					      
+|  30   | free-bootstrap-template-restaurant-website-treehut			      |[live example](https://mcreationmm.github.io/web/free-bootstrap-template-restaurant-website-treehut/)|			      
+|  31   | free-bootstrap-template-rockline-business					      |[live example](https://mcreationmm.github.io/web/free-bootstrap-template-rockline-business/)|					      
+|  32   | free-bootstrap-template-for-multi-purpose-ladder			      |[live example](https://mcreationmm.github.io/web/free-bootstrap-template-for-multi-purpose-ladder/)|			      
+|  33   | free-portfolio-html5-responsive-website-sam					      |[live example](https://mcreationmm.github.io/web/free-portfolio-html5-responsive-website-sam/)|					      
+|  34   | getdoctor-free-bootstrap-responsive-website-template		      |[live example](https://mcreationmm.github.io/web/getdoctor-free-bootstrap-responsive-website-template/)|		      
 |  35   | golden-hotel-free-html5-bootstrap-web-template				      |[live example](https://learning-zone.github.io/website-templates/golden-hotel-free-html5-bootstrap-web-template/)|				      
 |  36   | grand-free-bootstrap-responsive-website-template			      |[live example](https://learning-zone.github.io/website-templates/grand-free-bootstrap-responsive-website-template/)|			      
 |  37   | html5-responsive-coming-soon-page							      |[live example](https://learning-zone.github.io/website-templates/html5-responsive-coming-soon-page/)|							      
