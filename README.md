@@ -7,8 +7,7 @@
 
 
 |Sl.No| Template Name  | Live Example |
-|-----|----------------|--------------|
-|  01  | 3-col-portfolio	                                                  |[live example](https://mcreationmm.github.io/web//3-col-portfolio/)|	                                                  
+|-----|----------------|--------------|                                              
 |  02  | above-educational-bootstrap-responsive-template	                  |[live example](https://mcreationmm.github.io/web/above-educational-bootstrap-responsive-template/)|	                  
 |  03  | add-life-health-fitness-free-bootstrap-html5-template	          |[live example](https://mcreationmm.github.io/web/add-life-health-fitness-free-bootstrap-html5-template/)|	          
 |  04  | aerosky-real-estate-html-responsive-website-template		      |[live example](https://mcreationmm.github.io/web/aerosky-real-estate-html-responsive-website-template/)|	      
