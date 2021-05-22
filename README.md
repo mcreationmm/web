@@ -114,8 +114,7 @@
 |  108   | endure-html5-responsive-coming-soon-template				      |[live example](https://learning-zone.github.io/website-templates/endure-html5-responsive-coming-soon-template/)|				      
 |  109   | extent														      |[live example](https://learning-zone.github.io/website-templates/extent/)|														      
 |  110   | fiber-hosting-bootstrap-website-template					      |[live example](https://learning-zone.github.io/website-templates/fiber-hosting-bootstrap-website-template/)|					      						      
-|  112   | funky-cool-blue												      |[live example](https://learning-zone.github.io/website-templates/funky-cool-blue/)|												      
-|  113   | gila														      |[live example](https://learning-zone.github.io/website-templates/gila/)|														      
+|  112   | funky-cool-blue												      |[live example](https://learning-zone.github.io/website-templates/funky-cool-blue/)|												      											      
 |  114   | glips-responsive-free-coming-soon-bootstrap-template		      |[live example](https://learning-zone.github.io/website-templates/glips-responsive-free-coming-soon-bootstrap-template/)|		      
 |  115   | grandure-bootstrap-free-coming-soon-template				      |[live example](https://learning-zone.github.io/website-templates/grandure-bootstrap-free-coming-soon-template/)|				      
 |  116   | grass-stains												      |[live example](https://learning-zone.github.io/website-templates/grass-stains/)|												      
