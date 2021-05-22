@@ -131,8 +131,7 @@
 |  123   | idata-hosting-free-bootstrap-responsive-website-template	      |[live example](https://learning-zone.github.io/website-templates/idata-hosting-free-bootstrap-responsive-website-template/)|	      
 |  124   | interio														      |[live example](https://learning-zone.github.io/website-templates/interio/)|														      
 |  125   | internet-portal												      |[live example](https://learning-zone.github.io/website-templates/internet-portal/)|												      
-|  126   | kavin-corporate-bootstrap-responsive-web-template			      |[live example](https://learning-zone.github.io/website-templates/kavin-corporate-bootstrap-responsive-web-template/)|			      
-|  127   | lazydays													      |[live example](https://learning-zone.github.io/website-templates/lazydays/)|													      
+|  126   | kavin-corporate-bootstrap-responsive-web-template			      |[live example](https://learning-zone.github.io/website-templates/kavin-corporate-bootstrap-responsive-web-template/)|			      											      
 |  128   | learn-educational-free-responsive-web-template				      |[live example](https://learning-zone.github.io/website-templates/learn-educational-free-responsive-web-template/)|				      
 |  129   | line-free-app-landing-page-responsive-web-template			      |[live example](https://learning-zone.github.io/website-templates/line-free-app-landing-page-responsive-web-template/)|			      
 |  130   | medplus-medical												      |[live example](https://learning-zone.github.io/website-templates/medplus-medical/)|												      
