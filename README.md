@@ -119,8 +119,7 @@
 |  134   | ninja-business-consulting-html-responsive-web-template		      |[live example](https://learning-zone.github.io/website-templates/ninja-business-consulting-html-responsive-web-template/)|		      
 |  135   | one-page-wonder												      |[live example](https://learning-zone.github.io/website-templates/one-page-wonder/)|												      
 |  136   | photo-art													      |[live example](https://learning-zone.github.io/website-templates/photo-art/)|													      
-|  137   | photo-style-two												      |[live example](https://learning-zone.github.io/website-templates/photo-style-two/)|												      
-|  138   | plain														      |[live example](https://learning-zone.github.io/website-templates/plain/)|														      
+|  137   | photo-style-two												      |[live example](https://learning-zone.github.io/website-templates/photo-style-two/)|												      												      
 |  139   | portfolio-item												      |[live example](https://learning-zone.github.io/website-templates/portfolio-item/)|												      
 |  140   | prosimii													      |[live example](https://learning-zone.github.io/website-templates/prosimii/)|													      
 |  141   | relic-portal												      |[live example](https://learning-zone.github.io/website-templates/relic-portal/)|												      
