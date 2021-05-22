@@ -154,8 +154,7 @@
 |  153   | startbootstrap-clean-blog-1.0.2								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-clean-blog-1.0.2/)|								      
 |  154   | startbootstrap-freelancer-1.0.2								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-freelancer-1.0.2/)|								      
 |  155   | startbootstrap-grayscale-1.0.3								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-grayscale-1.0.3/)|								      						      					      
-|  158   | startbootstrap-stylish-portfolio-1.0.2						      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-stylish-portfolio-1.0.2/)|						      
-|  159   | street-life													      |[live example](https://learning-zone.github.io/website-templates/street-life/)|													      
+|  158   | startbootstrap-stylish-portfolio-1.0.2						      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-stylish-portfolio-1.0.2/)|						      										      
 |  160   | stylish-bootstrap-coming-soon-template						      |[live example](https://learning-zone.github.io/website-templates/stylish-bootstrap-coming-soon-template/)|						      
 |  161   | stylish-portfolio											      |[live example](https://learning-zone.github.io/website-templates/stylish-portfolio/)|											      
 |  162   | thin-green-line												      |[live example](https://learning-zone.github.io/website-templates/thin-green-line/)|												      
