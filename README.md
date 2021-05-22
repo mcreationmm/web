@@ -147,9 +147,7 @@
 |  139   | portfolio-item												      |[live example](https://learning-zone.github.io/website-templates/portfolio-item/)|												      
 |  140   | prosimii													      |[live example](https://learning-zone.github.io/website-templates/prosimii/)|													      
 |  141   | relic-portal												      |[live example](https://learning-zone.github.io/website-templates/relic-portal/)|												      
-|  142   | sample_site													      |[live example](https://learning-zone.github.io/website-templates/sample_site/)|													      
-|  143   | sb-admin-2													      |[live example](https://learning-zone.github.io/website-templates/sb-admin-2/)|													      
-|  144   | sb-admin													      |[live example](https://learning-zone.github.io/website-templates/sb-admin/)|													      
+|  142   | sample_site													      |[live example](https://learning-zone.github.io/website-templates/sample_site/)|													     							      
 |  145   | scenic-photo												      |[live example](https://learning-zone.github.io/website-templates/scenic-photo/)|												      
 |  146   | school-educational-html5-template							      |[live example](https://learning-zone.github.io/website-templates/school-educational-html5-template/)|							      
 |  147   | simple-sidebar												      |[live example](https://learning-zone.github.io/website-templates/simple-sidebar/)|												      
@@ -160,9 +158,7 @@
 |  152   | startbootstrap-agency-1.0.2									      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-agency-1.0.2/)|									      
 |  153   | startbootstrap-clean-blog-1.0.2								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-clean-blog-1.0.2/)|								      
 |  154   | startbootstrap-freelancer-1.0.2								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-freelancer-1.0.2/)|								      
-|  155   | startbootstrap-grayscale-1.0.3								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-grayscale-1.0.3/)|								      
-|  156   | startbootstrap-sb-admin-1.0.2								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-sb-admin-1.0.2/)|								      
-|  157   | startbootstrap-sb-admin-2-1.0.5								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-sb-admin-2-1.0.5/)|								      
+|  155   | startbootstrap-grayscale-1.0.3								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-grayscale-1.0.3/)|								      						      					      
 |  158   | startbootstrap-stylish-portfolio-1.0.2						      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-stylish-portfolio-1.0.2/)|						      
 |  159   | street-life													      |[live example](https://learning-zone.github.io/website-templates/street-life/)|													      
 |  160   | stylish-bootstrap-coming-soon-template						      |[live example](https://learning-zone.github.io/website-templates/stylish-bootstrap-coming-soon-template/)|						      
