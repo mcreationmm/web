@@ -138,5 +138,4 @@
 |  165   | vone-free-business-html5-responsive-website					      |[live example](https://learning-zone.github.io/website-templates/vone-free-business-html5-responsive-website/)|					      
 |  166   | vteam-a-corporate-multipurpose-free-bootstrap-responsive-template 			          |[live example](https://learning-zone.github.io/website-templates/vteam-a-corporate-multipurpose-free-bootstrap-responsive-template/)| 			                
 |  168   | webtrends-free-bootstrap-responsive-web-template		 	      |[live example](https://learning-zone.github.io/website-templates/webtrends-free-bootstrap-responsive-web-template/)|		 	      
-|  169   | zenlike														      |[live example](https://learning-zone.github.io/website-templates/zenlike/)|
 |  170   | reveal														      |[live example](https://learning-zone.github.io/website-templates/reveal/)|														      
