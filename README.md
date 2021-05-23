@@ -88,11 +88,6 @@
 |  94   | car-zone-automobile-bootstrap-responsive-web-template		      |[live example](https://learning-zone.github.io/website-templates/car-zone-automobile-bootstrap-responsive-web-template/)|		      
 |  95   | city-square-bootstrap-responsive-web-template				      |[live example](https://learning-zone.github.io/website-templates/city-square-bootstrap-responsive-web-template/)|				      
 |  96   | clouds-html5-multipurpose-landing-page-template				      |[live example](https://learning-zone.github.io/website-templates/clouds-html5-multipurpose-landing-page-template/)|				      		      
-|  98   | css3-bw														      |[live example](https://learning-zone.github.io/website-templates/css3-bw/)|														      
-|  99   | css3-drop-shadows											      |[live example](https://learning-zone.github.io/website-templates/css3-drop-shadows/)|											      
-|  101   | css3-photo-two												      |[live example](https://learning-zone.github.io/website-templates/css3-photo-two/)|												      
-|  102   | css3-seascape-two											      |[live example](https://learning-zone.github.io/website-templates/css3-seascape-two/)|											      
-|  103   | css3-seascape												      |[live example](https://learning-zone.github.io/website-templates/css3-seascape/)|												      
 |  104   | darktouch-corporate-portfolio-bootstrap-responsive-web-template	  |[live example](https://learning-zone.github.io/website-templates/darktouch-corporate-portfolio-bootstrap-responsive-web-template/)|	  
 |  105   | dreamy														      |[live example](https://learning-zone.github.io/website-templates/dreamy/)|														      									
 |  107   | droll														      |[live example](https://learning-zone.github.io/website-templates/droll/)|														      		      
