@@ -131,8 +131,7 @@
 |  154   | startbootstrap-freelancer-1.0.2								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-freelancer-1.0.2/)|								      
 |  155   | startbootstrap-grayscale-1.0.3								      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-grayscale-1.0.3/)|								      						      					      
 |  158   | startbootstrap-stylish-portfolio-1.0.2						      |[live example](https://learning-zone.github.io/website-templates/startbootstrap-stylish-portfolio-1.0.2/)|						      										      				      
-|  161   | stylish-portfolio											      |[live example](https://learning-zone.github.io/website-templates/stylish-portfolio/)|											      
-|  162   | thin-green-line												      |[live example](https://learning-zone.github.io/website-templates/thin-green-line/)|												      
+|  161   | stylish-portfolio											      |[live example](https://learning-zone.github.io/website-templates/stylish-portfolio/)|											     								      
 |  163   | unique-free-responsive-html5-template						      |[live example](https://learning-zone.github.io/website-templates/unique-free-responsive-html5-template/)|						      
 |  164   | vcare-free-html5-template-hospital-website					      |[live example](https://learning-zone.github.io/website-templates/vcare-free-html5-template-hospital-website/)|					      
 |  165   | vone-free-business-html5-responsive-website					      |[live example](https://learning-zone.github.io/website-templates/vone-free-business-html5-responsive-website/)|					      
