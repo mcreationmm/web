@@ -88,10 +88,8 @@
 |  94   | car-zone-automobile-bootstrap-responsive-web-template		      |[live example](https://learning-zone.github.io/website-templates/car-zone-automobile-bootstrap-responsive-web-template/)|		      
 |  95   | city-square-bootstrap-responsive-web-template				      |[live example](https://learning-zone.github.io/website-templates/city-square-bootstrap-responsive-web-template/)|				      
 |  96   | clouds-html5-multipurpose-landing-page-template				      |[live example](https://learning-zone.github.io/website-templates/clouds-html5-multipurpose-landing-page-template/)|				      		      
-|  104   | darktouch-corporate-portfolio-bootstrap-responsive-web-template	  |[live example](https://learning-zone.github.io/website-templates/darktouch-corporate-portfolio-bootstrap-responsive-web-template/)|	  
-|  105   | dreamy														      |[live example](https://learning-zone.github.io/website-templates/dreamy/)|														      									
-|  107   | droll														      |[live example](https://learning-zone.github.io/website-templates/droll/)|														      		      
-|  109   | extent														      |[live example](https://learning-zone.github.io/website-templates/extent/)|														      
+|  104   | darktouch-corporate-portfolio-bootstrap-responsive-web-template	  |[live example](https://learning-zone.github.io/website-templates/darktouch-corporate-portfolio-bootstrap-responsive-web-template/)|	  																					      		      
+				      
 |  110   | fiber-hosting-bootstrap-website-template					      |[live example](https://learning-zone.github.io/website-templates/fiber-hosting-bootstrap-website-template/)|					      						      
 |  112   | funky-cool-blue												      |[live example](https://learning-zone.github.io/website-templates/funky-cool-blue/)|												      											           				      
 |  116   | grass-stains												      |[live example](https://learning-zone.github.io/website-templates/grass-stains/)|												      
