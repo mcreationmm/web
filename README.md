@@ -99,7 +99,7 @@
 |  118   | greenery													      |[live example](https://learning-zone.github.io/website-templates/greenery/)|													      
 |  119   | gunmetal-portal												      |[live example](https://learning-zone.github.io/website-templates/gunmetal-portal/)|												      
 |  120   | half-slider													      |[live example](https://learning-zone.github.io/website-templates/half-slider/)|													      
-|  121   | html5-portfolio												      |[live example](https://learning-zone.github.io/website-templates/html5-portfolio/)|												      
+					      
 |  122   | iclick-photography-bootstrap-free-website-template			      |[live example](https://learning-zone.github.io/website-templates/iclick-photography-bootstrap-free-website-template/)|			      
 |  123   | idata-hosting-free-bootstrap-responsive-website-template	      |[live example](https://learning-zone.github.io/website-templates/idata-hosting-free-bootstrap-responsive-website-template/)|	      
 |  124   | interio														      |[live example](https://learning-zone.github.io/website-templates/interio/)|														      
