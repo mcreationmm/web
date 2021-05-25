@@ -109,8 +109,7 @@
 |  129   | line-free-app-landing-page-responsive-web-template			      |[live example](https://learning-zone.github.io/website-templates/line-free-app-landing-page-responsive-web-template/)|			      
 |  130   | medplus-medical												      |[live example](https://learning-zone.github.io/website-templates/medplus-medical/)|												      
 |  131   | metropolis													      |[live example](https://learning-zone.github.io/website-templates/metropolis/)|													      
-|  132   | missunderstood												      |[live example](https://learning-zone.github.io/website-templates/missunderstood/)|												      
-|  133   | my-portfolio-two											      |[live example](https://learning-zone.github.io/website-templates/my-portfolio-two/)|											      
+|  132   | missunderstood												      |[live example](https://learning-zone.github.io/website-templates/missunderstood/)|												      							      
 |  134   | ninja-business-consulting-html-responsive-web-template		      |[live example](https://learning-zone.github.io/website-templates/ninja-business-consulting-html-responsive-web-template/)|		      
 |  135   | one-page-wonder												      |[live example](https://learning-zone.github.io/website-templates/one-page-wonder/)|												      
 |  136   | photo-art													      |[live example](https://learning-zone.github.io/website-templates/photo-art/)|													      
