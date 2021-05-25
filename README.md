@@ -120,8 +120,7 @@
 |  141   | relic-portal												      |[live example](https://learning-zone.github.io/website-templates/relic-portal/)|												      
 |  142   | sample_site													      |[live example](https://learning-zone.github.io/website-templates/sample_site/)|													     							      
 |  145   | scenic-photo												      |[live example](https://learning-zone.github.io/website-templates/scenic-photo/)|												      
-|  146   | school-educational-html5-template							      |[live example](https://learning-zone.github.io/website-templates/school-educational-html5-template/)|							      
-|  147   | simple-sidebar												      |[live example](https://learning-zone.github.io/website-templates/simple-sidebar/)|												      													      
+|  146   | school-educational-html5-template							      |[live example](https://learning-zone.github.io/website-templates/school-educational-html5-template/)|							     										      													      
 |  149   | skytouch-onepage-bootstrap-responsive-web-template			      |[live example](https://learning-zone.github.io/website-templates/skytouch-onepage-bootstrap-responsive-web-template/)|			      
 |  150   | smart-interior-designs-html5-bootstrap-web-template			      |[live example](https://learning-zone.github.io/website-templates/smart-interior-designs-html5-bootstrap-web-template/)|			      
 |  151   | smartapp-free-html5-landing-page							      |[live example](https://learning-zone.github.io/website-templates/smartapp-free-html5-landing-page/)|							      
